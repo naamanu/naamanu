@@ -5,7 +5,7 @@ Product engineer building web and distributed applications.
 Currently at **SuitePad** • Previously at **SayRhino**
 
 - 🔭 Working on: Local-first sync engines and programming languages
-- 🌱 Learning: Rust, WebAssembly
+- 🌱 Learning: Rust, Ocaml
 - 💼 Open to: Product Engineering roles at product-focused companies
 
 
