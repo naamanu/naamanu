@@ -1,14 +1,9 @@
 # Nana Adjei Manu
 
-Product engineer building web and distributed applications.
+Product engineering.
 
 Currently at **SuitePad** • Previously at **SayRhino**
 
-- 🔭 Working on: Local-first sync engines and programming languages
-- 🌱 Learning: Rust, Ocaml
-- 💼 Open to: Product Engineering roles at product-focused companies
-
-
 ### Connect
 
-[Portfolio](https://nanamanu.com) • [Twitter](https://twitter.com/nmanu__) • [LinkedIn](https://linkedin.com/in/nana-adjei-manu)
+[Portfolio](https://nanamanu.com) • [LinkedIn](https://linkedin.com/in/nana-adjei-manu)
